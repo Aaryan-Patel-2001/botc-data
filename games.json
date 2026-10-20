@@ -148,6 +148,73 @@
       "aliveAtEnd": true,
       "wasExecuted": false,
       "diedAtNight": false
+    },
+    {
+      "id": "118bad1f-c187-46be-a1ae-679cc0226c2b",
+      "date": "2026-10-20",
+      "role": "storyteller",
+      "script": {
+        "id": "snv",
+        "name": "Sects & Violets"
+      },
+      "playerCount": 9,
+      "travellerCount": 0,
+      "winner": "evil",
+      "notes": "",
+      "createdAt": "2026-10-20T21:08:56.865Z",
+      "demons": [
+        {
+          "id": "vigormortis",
+          "name": "Vigormortis",
+          "team": "demon"
+        }
+      ],
+      "minions": [
+        {
+          "id": "cerenovus",
+          "name": "Cerenovus",
+          "team": "minion"
+        }
+      ],
+      "townsfolk": [
+        {
+          "id": "artist",
+          "name": "Artist",
+          "team": "townsfolk"
+        },
+        {
+          "id": "flowergirl",
+          "name": "Flowergirl",
+          "team": "townsfolk"
+        },
+        {
+          "id": "philosopher",
+          "name": "Philosopher",
+          "team": "townsfolk"
+        },
+        {
+          "id": "snakecharmer",
+          "name": "Snake Charmer",
+          "team": "townsfolk"
+        },
+        {
+          "id": "juggler",
+          "name": "Juggler",
+          "team": "townsfolk"
+        },
+        {
+          "id": "clockmaker",
+          "name": "Clockmaker",
+          "team": "townsfolk"
+        }
+      ],
+      "outsiders": [
+        {
+          "id": "mutant",
+          "name": "Mutant",
+          "team": "outsider"
+        }
+      ]
     }
   ]
 }
