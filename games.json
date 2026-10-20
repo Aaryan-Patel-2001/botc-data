@@ -86,6 +86,33 @@
           "team": "minion"
         }
       ]
+    },
+    {
+      "id": "55832c8f-9e58-492c-864b-537730b3ef35",
+      "date": "2026-10-20",
+      "role": "player",
+      "script": {
+        "id": "custom",
+        "name": "Catfishing"
+      },
+      "playerCount": 9,
+      "travellerCount": 0,
+      "winner": "evil",
+      "notes": "",
+      "createdAt": "2026-10-20T21:01:12.026Z",
+      "startingCharacter": {
+        "id": "slayer",
+        "name": "Slayer",
+        "team": "townsfolk"
+      },
+      "finalCharacter": {
+        "id": "slayer",
+        "name": "Slayer",
+        "team": "townsfolk"
+      },
+      "finalAlignment": "good",
+      "aliveAtEnd": false,
+      "wasExecuted": true
     }
   ]
 }
