@@ -312,6 +312,41 @@
           "team": "outsider"
         }
       ]
+    },
+    {
+      "id": "8b8d467d-21de-46a3-9363-a7844c02b914",
+      "date": "2026-10-20",
+      "role": "player",
+      "script": {
+        "id": "custom",
+        "name": "The Unspirit of Ivory"
+      },
+      "playerCount": 10,
+      "travellerCount": 0,
+      "winner": "evil",
+      "notes": "",
+      "createdAt": "2026-10-20T21:18:48.981Z",
+      "startingCharacter": {
+        "id": "cultleader",
+        "name": "Cult Leader",
+        "team": "townsfolk"
+      },
+      "otherCharacters": [
+        {
+          "id": "legion",
+          "name": "Legion",
+          "team": "demon"
+        }
+      ],
+      "finalCharacter": {
+        "id": "legion",
+        "name": "Legion",
+        "team": "demon"
+      },
+      "finalAlignment": "evil",
+      "aliveAtEnd": false,
+      "wasExecuted": false,
+      "diedAtNight": true
     }
   ]
 }
