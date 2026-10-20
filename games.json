@@ -113,6 +113,41 @@
       "finalAlignment": "good",
       "aliveAtEnd": false,
       "wasExecuted": true
+    },
+    {
+      "id": "4576e3a2-43a3-43f4-8ff3-9d6a9f4c538c",
+      "date": "2026-10-20",
+      "role": "player",
+      "script": {
+        "id": "tb",
+        "name": "Trouble Brewing"
+      },
+      "playerCount": 8,
+      "travellerCount": 0,
+      "winner": "evil",
+      "notes": "",
+      "createdAt": "2026-10-20T21:06:55.493Z",
+      "startingCharacter": {
+        "id": "scarletwoman",
+        "name": "Scarlet Woman",
+        "team": "minion"
+      },
+      "otherCharacters": [
+        {
+          "id": "imp",
+          "name": "Imp",
+          "team": "demon"
+        }
+      ],
+      "finalCharacter": {
+        "id": "imp",
+        "name": "Imp",
+        "team": "demon"
+      },
+      "finalAlignment": "evil",
+      "aliveAtEnd": true,
+      "wasExecuted": false,
+      "diedAtNight": false
     }
   ]
 }
