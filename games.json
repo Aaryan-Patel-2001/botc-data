@@ -215,6 +215,103 @@
           "team": "outsider"
         }
       ]
+    },
+    {
+      "id": "9ad70402-1bc0-4da4-9ee4-d8280e430e38",
+      "date": "2026-10-20",
+      "role": "storyteller",
+      "script": {
+        "id": "bmr",
+        "name": "Bad Moon Rising"
+      },
+      "playerCount": 15,
+      "travellerCount": 0,
+      "winner": "evil",
+      "notes": "",
+      "createdAt": "2026-10-20T21:17:42.925Z",
+      "demons": [
+        {
+          "id": "shabaloth",
+          "name": "Shabaloth",
+          "team": "demon"
+        }
+      ],
+      "minions": [
+        {
+          "id": "godfather",
+          "name": "Godfather",
+          "team": "minion"
+        },
+        {
+          "id": "devilsadvocate",
+          "name": "Devil's Advocate",
+          "team": "minion"
+        },
+        {
+          "id": "mastermind",
+          "name": "Mastermind",
+          "team": "minion"
+        }
+      ],
+      "townsfolk": [
+        {
+          "id": "chambermaid",
+          "name": "Chambermaid",
+          "team": "townsfolk"
+        },
+        {
+          "id": "professor",
+          "name": "Professor",
+          "team": "townsfolk"
+        },
+        {
+          "id": "fool",
+          "name": "Fool",
+          "team": "townsfolk"
+        },
+        {
+          "id": "gossip",
+          "name": "Gossip",
+          "team": "townsfolk"
+        },
+        {
+          "id": "innkeeper",
+          "name": "Innkeeper",
+          "team": "townsfolk"
+        },
+        {
+          "id": "exorcist",
+          "name": "Exorcist",
+          "team": "townsfolk"
+        },
+        {
+          "id": "grandmother",
+          "name": "Grandmother",
+          "team": "townsfolk"
+        },
+        {
+          "id": "pacifist",
+          "name": "Pacifist",
+          "team": "townsfolk"
+        },
+        {
+          "id": "minstrel",
+          "name": "Minstrel",
+          "team": "townsfolk"
+        }
+      ],
+      "outsiders": [
+        {
+          "id": "tinker",
+          "name": "Tinker",
+          "team": "outsider"
+        },
+        {
+          "id": "goon",
+          "name": "Goon",
+          "team": "outsider"
+        }
+      ]
     }
   ]
 }
