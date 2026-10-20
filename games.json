@@ -1,4 +1,91 @@
 {
   "version": 1,
-  "games": []
+  "games": [
+    {
+      "id": "84393771-9d58-419d-b0c6-c1c20cbf6518",
+      "date": "2026-10-20",
+      "role": "storyteller",
+      "script": {
+        "id": "tb",
+        "name": "Trouble Brewing"
+      },
+      "playerCount": 10,
+      "travellerCount": 0,
+      "winner": "good",
+      "notes": "",
+      "createdAt": "2026-10-20T20:57:44.281Z",
+      "demons": [
+        {
+          "id": "imp",
+          "name": "Imp",
+          "team": "demon"
+        }
+      ],
+      "minions": [
+        {
+          "id": "scarletwoman",
+          "name": "Scarlet Woman",
+          "team": "minion"
+        },
+        {
+          "id": "baron",
+          "name": "Baron",
+          "team": "minion"
+        }
+      ],
+      "outsiderCount": 2,
+      "notableCharacters": [
+        {
+          "id": "chef",
+          "name": "Chef",
+          "team": "townsfolk"
+        },
+        {
+          "id": "empath",
+          "name": "Empath",
+          "team": "townsfolk"
+        },
+        {
+          "id": "saint",
+          "name": "Saint",
+          "team": "outsider"
+        },
+        {
+          "id": "drunk",
+          "name": "Drunk",
+          "team": "outsider"
+        },
+        {
+          "id": "slayer",
+          "name": "Slayer",
+          "team": "townsfolk"
+        },
+        {
+          "id": "mayor",
+          "name": "Mayor",
+          "team": "townsfolk"
+        },
+        {
+          "id": "fortuneteller",
+          "name": "Fortune Teller",
+          "team": "townsfolk"
+        },
+        {
+          "id": "imp",
+          "name": "Imp",
+          "team": "demon"
+        },
+        {
+          "id": null,
+          "name": "scal",
+          "team": "townsfolk"
+        },
+        {
+          "id": "baron",
+          "name": "Baron",
+          "team": "minion"
+        }
+      ]
+    }
+  ]
 }
