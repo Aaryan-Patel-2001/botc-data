@@ -58,6 +58,35 @@
       "aliveAtEnd": true,
       "wasExecuted": false,
       "diedAtNight": false
+    },
+    {
+      "id": "8572efd5-20ba-4724-95ae-9f3abe14aa4f",
+      "date": "2026-11-23",
+      "role": "player",
+      "script": {
+        "id": "custom",
+        "name": "All base 3"
+      },
+      "playerCount": 8,
+      "travellerCount": 2,
+      "winner": "evil",
+      "notes": "",
+      "createdAt": "2026-11-24T23:48:54.628Z",
+      "startingCharacter": {
+        "id": "cultleader",
+        "name": "Cult Leader",
+        "team": "townsfolk"
+      },
+      "otherCharacters": [],
+      "finalCharacter": {
+        "id": "cultleader",
+        "name": "Cult Leader",
+        "team": "townsfolk"
+      },
+      "finalAlignment": "good",
+      "aliveAtEnd": false,
+      "wasExecuted": false,
+      "diedAtNight": true
     }
   ]
 }
