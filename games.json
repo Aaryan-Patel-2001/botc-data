@@ -87,6 +87,35 @@
       "aliveAtEnd": false,
       "wasExecuted": false,
       "diedAtNight": true
+    },
+    {
+      "id": "4579ec98-81db-4cf6-8469-3e716493ca6d",
+      "date": "2026-11-24",
+      "role": "player",
+      "script": {
+        "id": "snv",
+        "name": "Sects & Violets"
+      },
+      "playerCount": 12,
+      "travellerCount": 0,
+      "winner": "good",
+      "notes": "",
+      "createdAt": "2026-11-25T01:51:23.403Z",
+      "startingCharacter": {
+        "id": "seamstress",
+        "name": "Seamstress",
+        "team": "townsfolk"
+      },
+      "otherCharacters": [],
+      "finalCharacter": {
+        "id": "seamstress",
+        "name": "Seamstress",
+        "team": "townsfolk"
+      },
+      "finalAlignment": "good",
+      "aliveAtEnd": false,
+      "wasExecuted": true,
+      "diedAtNight": false
     }
   ]
 }
